@@ -1,0 +1,39 @@
+body{
+    background-color: #E5E1DA;
+    font-family: Poppins;
+    font-size: 20px;
+}
+
+.heading{
+    background-color: #AAD7D9;
+    font-size: 30px;
+    max-width: 1800px;
+    margin: auto;
+    padding: 1.5rem 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.projectList{
+    background-color: #AAD7D9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 55px;
+}
+
+/* <li class="RespLogin"><a href="responsiveSlidinglogin.html" style="text-decoration: none;">Responsive sliding login and registration forms using HTML CSS and JavaScript</a></li>
+<li class="StuGrade"><a href="calculator.html" style="text-decoration: none;">Student Grade Calculator</a></li>
+<li class="NavOnScroll"><a href="navBar.html" style="text-decoration: none;">Navigation Bar on Scroll</a></li>
+<li class="BMI"><a href="BMIcalc.html" style="text-decoration: none;">BMI Calculator</a></li>
+<li class="task"><a href="taskTracker.html" style="text-decoration: none;">Task Tracker Project</a></li>
+<li class="tip"><a href="tipCalculatior.html" style="text-decoration: none;">Tip Calculator</a></li>
+<li class="clock"><a href="analogClock.html" style="text-decoration: none;">Analog Clock</a></li>
+<li class="pay"><a href="PayRole.html" style="text-decoration: none;">Pay Role Management Webpage</a></li>
+<li class="Mouse"><a href="ParallaxEffect.html" style="text-decoration: none;">Mousemove parallax effects</a></li>
+<li class="txt"><a href="textToSpeech.html" style="text-decoration: none;">Text to Speech</a></li> */
+
+.RespLogin, .StuGrade, .NavOnScroll, .BMI, .task, .tip, .clock, .pay, .Mouse, .txt{
+    color: black;
+}
